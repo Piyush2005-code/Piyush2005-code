@@ -23,11 +23,11 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 class PiyushSinghBhati:
-    affiliation  = "B.Tech CSE @ IIT Jodhpur  |  CGPA: 8.75 / 10.0"
+    affiliation  = "B.Tech CSE @ IIT Jodhpur  |  CGPA: 8.59 / 10.0"
     research     = ["AI Systems & GPU Architecture", "Physics-Informed Neural Networks (PINNs)"]
     interests    = ["ML Inference Infrastructure", "OS Design", "Embedded Systems",
                     "Computer Vision", "Autonomous Systems", "Robotics"]
@@ -41,7 +41,7 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 
 ---
 
-## 🔬 Research Experience
+## Research Experience
 
 <table>
 <tr>
@@ -70,10 +70,10 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-### 🔩 ARM64 Unikernel for ML Inference
+### ARM64 Unikernel for ML Inference
 > *C · ARM64 Assembly · QEMU · Unikraft* &nbsp;|&nbsp; **2025 – Ongoing**
 
 <img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/src/Embedded_Hardware.avif" width="100%" alt="ARM64 Embedded Hardware" />
@@ -112,7 +112,7 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-### 🤖 JARVIS Voice Assistant
+### JARVIS Voice Assistant
 > *vLLM · RAG · Docker · Kubernetes · NVIDIA AudioFlamingo3* &nbsp;|&nbsp; **2025**
 
 <img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/src/jarvis-interface.png" width="100%" alt="JARVIS Interface" />
@@ -127,7 +127,7 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-### ⚙️ OS Scheduling Algorithm Simulator
+### OS Scheduling Algorithm Simulator
 > *React · TypeScript · Electron* &nbsp;|&nbsp; **2025**
 
 <img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/src/os-scheduler.png" width="100%" alt="OS Scheduler Gantt Chart" />
@@ -141,7 +141,7 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-### ✈️ Fixed-Wing STOL Aircraft Wing Design
+### Fixed-Wing STOL Aircraft Wing Design
 > *ANSYS Fluent · CAD · CFD* &nbsp;|&nbsp; **Inter IIT Tech Meet 14.0**
 
 <table>
@@ -163,7 +163,7 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-### 🚁 Quadcopter CAD Design — Scout Drone for Precision Agriculture
+### Quadcopter CAD Design — Scout Drone for Precision Agriculture
 > *Fusion 360 · UAV Design* &nbsp;|&nbsp; **2025**
 
 <table>
@@ -214,7 +214,7 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Piyush2005-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=04080f&title_color=00d4ff&icon_color=00d4ff&text_color=b8d0e8&rank_icon=github" />
