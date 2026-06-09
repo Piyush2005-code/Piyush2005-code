@@ -76,7 +76,7 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 ### ARM64 Unikernel for ML Inference
 > *C · ARM64 Assembly · QEMU · Unikraft* &nbsp;|&nbsp; **2025 – Ongoing**
 
-<img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/src/Embedded_Hardware.avif" width="100%" alt="ARM64 Embedded Hardware" />
+<img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/Embedded_Hardware.avif" width="100%" alt="ARM64 Embedded Hardware" />
 
 - Implemented **ARMv8-A boot sequence**, MMU initialization, identity-mapped page tables & early UART driver on QEMU
 - Built OS-agnostic UART communication protocol with **CRC validation** and bounded parsing
@@ -93,12 +93,12 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/src/Farm_top_image.jpg" width="100%" alt="Aerial Farm View" /></td>
-    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/src/Crop_Detection_Segmentation_mask.jpg" width="100%" alt="U-Net Segmentation Mask" /></td>
+    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/Farm_top_image.jpg" width="100%" alt="Aerial Farm View" /></td>
+    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/Crop_Detection_Segmentation_mask.jpg" width="100%" alt="U-Net Segmentation Mask" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/src/Crop_Detection_YOLO_Object_Detection.png" width="100%" alt="YOLOv8 Detection" /></td>
-    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/src/UNet%20model.png" width="100%" alt="U-Net Architecture" /></td>
+    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/Crop_Detection_YOLO_Object_Detection.png" width="100%" alt="YOLOv8 Detection" /></td>
+    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/UNet%20model.png" width="100%" alt="U-Net Architecture" /></td>
   </tr>
 </table>
 
@@ -115,7 +115,7 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 ### JARVIS Voice Assistant
 > *vLLM · RAG · Docker · Kubernetes · NVIDIA AudioFlamingo3* &nbsp;|&nbsp; **2025**
 
-<img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/src/jarvis-interface.png" width="100%" alt="JARVIS Interface" />
+<img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/jarvis-interface.png" width="100%" alt="JARVIS Interface" />
 
 - Engineered **STT → LLM → TTS loop** with model quantization + vLLM inference on NVIDIA A5000
 - Deployed containerized stack supporting **500+ concurrent users** with 98% uptime
@@ -130,7 +130,7 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 ### OS Scheduling Algorithm Simulator
 > *React · TypeScript · Electron* &nbsp;|&nbsp; **2025**
 
-<img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/src/os-scheduler.png" width="100%" alt="OS Scheduler Gantt Chart" />
+<img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/os-scheduler.png" width="100%" alt="OS Scheduler Gantt Chart" />
 
 - Implemented **FCFS, Round Robin & Priority** scheduling with configurable parameters
 - Real-time **Gantt chart visualization** for scheduling analysis
@@ -146,12 +146,12 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/src/Wing_Side_view.jpeg" width="100%" alt="Wing Side View CAD" /></td>
-    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/src/wing-drawing.png" width="100%" alt="Wing Technical Drawing" /></td>
+    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/Wing_Side_view.jpeg" width="100%" alt="Wing Side View CAD" /></td>
+    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/wing-drawing.png" width="100%" alt="Wing Technical Drawing" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/src/pressure-contours.png" width="100%" alt="Pressure Contours" /></td>
-    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/src/cfd-simulation.png" width="100%" alt="CFD Simulation" /></td>
+    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/pressure-contours.png" width="100%" alt="Pressure Contours" /></td>
+    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/cfd-simulation.png" width="100%" alt="CFD Simulation" /></td>
   </tr>
 </table>
 
@@ -168,8 +168,8 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/src/quadcopter-isometric.png" width="100%" alt="Quadcopter Isometric" /></td>
-    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/src/quadcopter-front.png" width="100%" alt="Quadcopter Front View" /></td>
+    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/quadcopter-isometric.png" width="100%" alt="Quadcopter Isometric" /></td>
+    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/quadcopter-front.png" width="100%" alt="Quadcopter Front View" /></td>
   </tr>
 </table>
 
