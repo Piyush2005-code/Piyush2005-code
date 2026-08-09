@@ -25,15 +25,10 @@
 
 ## About Me
 
-```python
-class PiyushSinghBhati:
-    affiliation  = "B.Tech CSE @ IIT Jodhpur  |  CGPA: 8.59 / 10.0"
-    research     = ["AI Systems & GPU Architecture", "Physics-Informed Neural Networks (PINNs)"]
-    interests    = ["ML Inference Infrastructure", "OS Design", "Embedded Systems",
-                    "Computer Vision", "Autonomous Systems", "Robotics"]
-    languages    = ["C", "C++", "Python", "ARM64 Assembly", "TypeScript"]
-    currently    = "Deepening expertise in low-level systems & hardware-aware AI"
-```
+<div align="center">
+  <img src="./terminal_card.svg" alt="Piyush Singh Bhati Neofetch Card" width="100%" />
+</div>
+
 
 I am an undergraduate **Computer Science** student at **IIT Jodhpur** passionate about the intersection of **AI, systems engineering, and intelligent physical systems**.
 
