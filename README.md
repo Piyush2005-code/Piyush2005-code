@@ -24,11 +24,11 @@
 ---
 
 ## About Me
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Piyush2005-code/Piyush2005-code@main/terminal_card.svg?v=1.1" alt="Piyush Singh Bhati Neofetch Card" width="100%" />
-</div>
-
+<!---->
+<!-- <div align="center"> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/Piyush2005-code/Piyush2005-code@main/terminal_card.svg?v=1.1" alt="Piyush Singh Bhati Neofetch Card" width="100%" /> -->
+<!-- </div> -->
+<!---->
 
 I am an undergraduate **Computer Science** student at **IIT Jodhpur** passionate about the intersection of **AI, systems engineering, and intelligent physical systems**.
 
@@ -92,7 +92,7 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
     <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/Crop_Detection_Segmentation_mask.jpg" width="100%" alt="U-Net Segmentation Mask" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/Crop_Detection_YOLO_Object_Detection.png" width="100%" alt="YOLOv8 Detection" /></td>
+    <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/Crop_Detection_YOLO_Object_Detection.jpg" width="100%" alt="YOLOv8 Detection" /></td>
     <td><img src="https://raw.githubusercontent.com/Piyush2005-code/Piyush2005-code.github.io/dep/public/UNet%20model.png" width="100%" alt="U-Net Architecture" /></td>
   </tr>
 </table>
