@@ -26,7 +26,7 @@
 ## About Me
 
 <div align="center">
-  <img src="./terminal_card.svg" alt="Piyush Singh Bhati Neofetch Card" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/Piyush2005-code/Piyush2005-code@main/terminal_card.svg?v=1.1" alt="Piyush Singh Bhati Neofetch Card" width="100%" />
 </div>
 
 
