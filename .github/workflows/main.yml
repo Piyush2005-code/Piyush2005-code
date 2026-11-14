@@ -26,5 +26,4 @@ jobs:
           # plugin_achievements: yes
           # plugin_stars: yes
           config_timezone: Asia/Kolkata
-          config_display: columns
           config_order: base.header, base.activity, isocalendar, languages, habits, achievements, stars, base.community, base.repositories, base.metadata
