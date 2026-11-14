@@ -21,6 +21,14 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="Contributions calendar and commit stats" width="100%" />
+</div>
+
+---
+
 ## Research Experience
 
 <table>
@@ -190,14 +198,6 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 ![Fusion360](https://img.shields.io/badge/Fusion_360-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS_Fluent-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
 
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="Contributions calendar and commit stats" width="100%" />
 </div>
 
 ---
