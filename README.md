@@ -2,9 +2,17 @@
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="900" />
 </p>
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Piyush%20Singh%20Bhati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Systems%20Engineer%20%C2%B7%20IIT%20Jodhpur&descAlignY=51&descAlign=50" /> -->
+
+
+
+<!-- </div> -->
+
+---
+
+## About Me
 
 <p>
   <a href="https://www.linkedin.com/in/piyush-singh-bhati-5a074929a">
@@ -21,13 +29,8 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Piyush2005-code&style=for-the-badge&color=0d1c34&label=PROFILE+VIEWS" />
+<!-- <img src="https://komarev.com/ghpvc/?username=Piyush2005-code&style=for-the-badge&color=0d1c34&label=PROFILE+VIEWS" /> -->
 
-</div>
-
----
-
-## About Me
 <!---->
 <!-- <div align="center"> -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/Piyush2005-code/Piyush2005-code@main/terminal_card.svg?v=1.1" alt="Piyush Singh Bhati Neofetch Card" width="100%" /> -->
