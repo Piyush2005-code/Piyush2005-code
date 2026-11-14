@@ -200,10 +200,6 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
   <img src="./github-metrics.svg" alt="Contributions calendar and commit stats" width="100%" />
 </div>
 
-<div align="center">
-  <img src="./github-metrics-languages.svg" alt="Most used languages" width="60%" />
-</div>
-
 ---
 
 ## 🎓 Education
