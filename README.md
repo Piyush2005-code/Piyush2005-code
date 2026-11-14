@@ -32,7 +32,9 @@
 
 <!-- <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p> -->
 
-![Metrics](/github-metrics.svg)
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
 
 I am an undergraduate **Computer Science** student at **IIT Jodhpur** passionate about the intersection of **AI, systems engineering, and intelligent physical systems**.
 
