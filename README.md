@@ -30,6 +30,10 @@
 <!-- </div> -->
 <!---->
 
+<!-- <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p> -->
+
+![Metrics](/github-metrics.svg)
+
 I am an undergraduate **Computer Science** student at **IIT Jodhpur** passionate about the intersection of **AI, systems engineering, and intelligent physical systems**.
 
 My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel fusion, micro-benchmarking) and **Physics-Informed Neural Networks (PINNs)** for surrogate CFD modeling — bridging software and hardware through co-design. My project work spans a bare-metal ARM64 unikernel, real-time crop stress detection with YOLOv8, and detailed CAD modeling for STOL aircraft and precision agriculture drones.
