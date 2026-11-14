@@ -24,7 +24,7 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="Contributions calendar and commit stats" width="100%" />
+  <img src="./github-metrics.svg" alt="Contributions calendar and commit stats" width="720" />
 </div>
 
 ---
