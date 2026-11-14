@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Piyush%20Singh%20Bhati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Systems%20Engineer%20%C2%B7%20IIT%20Jodhpur&descAlignY=51&descAlign=50" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Piyush%20Singh%20Bhati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Systems%20Engineer%20%C2%B7%20IIT%20Jodhpur&descAlignY=51&descAlign=50" /> -->
 
 <p>
   <a href="https://www.linkedin.com/in/piyush-singh-bhati-5a074929a">
@@ -31,10 +35,6 @@
 <!---->
 
 <!-- <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p> -->
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
 
 I am an undergraduate **Computer Science** student at **IIT Jodhpur** passionate about the intersection of **AI, systems engineering, and intelligent physical systems**.
 
