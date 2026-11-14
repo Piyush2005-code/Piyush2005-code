@@ -1,43 +1,19 @@
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="900" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Piyush%20Singh%20Bhati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Systems%20Engineer%20%C2%B7%20IIT%20Jodhpur&descAlignY=51&descAlign=50" alt="Piyush Singh Bhati" />
+
+<p>
+  <a href="https://www.linkedin.com/in/piyush-singh-bhati-5a074929a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Piyush2005-code"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:piyush.bhati680@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="http://piyush2005-code.github.io"><img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
 </p>
 
-<!-- <div align="center"> -->
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Piyush%20Singh%20Bhati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Systems%20Engineer%20%C2%B7%20IIT%20Jodhpur&descAlignY=51&descAlign=50" /> -->
-
-
-
-<!-- </div> -->
+</div>
 
 ---
 
 ## About Me
-
-<p>
-  <a href="https://www.linkedin.com/in/piyush-singh-bhati-5a074929a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Piyush2005-code">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:piyush.bhati680@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="http://piyush2005-code.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
-</p>
-
-<!-- <img src="https://komarev.com/ghpvc/?username=Piyush2005-code&style=for-the-badge&color=0d1c34&label=PROFILE+VIEWS" /> -->
-
-<!---->
-<!-- <div align="center"> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/Piyush2005-code/Piyush2005-code@main/terminal_card.svg?v=1.1" alt="Piyush Singh Bhati Neofetch Card" width="100%" /> -->
-<!-- </div> -->
-<!---->
-
-<!-- <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p> -->
 
 I am an undergraduate **Computer Science** student at **IIT Jodhpur** passionate about the intersection of **AI, systems engineering, and intelligent physical systems**.
 
@@ -218,15 +194,14 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Piyush2005-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=04080f&title_color=00d4ff&icon_color=00d4ff&text_color=b8d0e8&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush2005-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=04080f&title_color=00d4ff&text_color=b8d0e8&langs_count=8" />
+  <img src="./github-metrics.svg" alt="Contributions calendar and commit stats" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush2005-code&theme=tokyonight&hide_border=true&background=04080f&ring=00d4ff&fire=1a7fe8&currStreakLabel=00d4ff" />
+  <img src="./github-metrics-languages.svg" alt="Most used languages" width="60%" />
 </div>
 
 ---
@@ -265,6 +240,6 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
-*📍 IIT Jodhpur, Rajasthan, India &nbsp;·&nbsp; Last updated: May 2025*
+*📍 IIT Jodhpur, Rajasthan, India*
 
 </div>
