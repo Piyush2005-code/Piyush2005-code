@@ -21,14 +21,6 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="Contributions calendar and commit stats" width="720" />
-</div>
-
----
-
 ## Research Experience
 
 <table>
@@ -163,6 +155,14 @@ My research explores **GPU architecture optimizations** (NVIDIA Hopper, kernel f
 
 - Custom quadcopter frame accommodating compute, flight controller, GPS, comms modules & dual-camera config
 - Hexacopter spray drone with modular tank integration and balanced payload placement
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="Contributions calendar and commit stats" width="720" />
+</div>
 
 ---
 
